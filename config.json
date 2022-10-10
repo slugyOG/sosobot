@@ -1,0 +1,9 @@
+{
+	"ip":"game7.falixserver.net",
+	"port": 59026,
+	"name": "alwayshere",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (sosoplays321123) (sosoplays321123)",
+	"login-cmd":"/login (sosoplays321123)"
+}
